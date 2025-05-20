@@ -29,6 +29,7 @@
 
 ## 🛠️ Languages and Tools
 
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,photoshop,php,github,discord,matlab,twitter"/>
