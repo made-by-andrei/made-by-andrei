@@ -8,6 +8,25 @@
 </h1>
 
 ### I am passionate about programming, web design, and gaming. Here you can find all the projects I’m working on.
+- 🌱 I’m currently learning **[PYTHON](https://www.learnpython.org/)**
+- 💬 Ask me about **Python, Canva, LUA...or anything [here](https://github.com/{andrei79x}/{andrei79x}/issues)**
+
+<br>
+
+<div align="center">
+  <a href="lehadus04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://instagram.com/acabaxc" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://bit.ly/noxuragrph" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
+  <a
+</div>
+
+<hr>
 <!--
 **andrei79x/andrei79x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
