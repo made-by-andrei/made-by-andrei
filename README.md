@@ -35,13 +35,19 @@
   <img src="https://skillicons.dev/icons?i=python,photoshop,php,github,discord,matlab,twitter"/>
 </p>
 
+
 ## ⚡️ Stats
 
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=andrei79x&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Andrei GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=andrei79x&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Andrei's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=andrei79x&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Andrei's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei79x&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Andrei's Most Used Languages" />
 </div>
+
+
+<hr>
 
 <!--
 **andrei79x/andrei79x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
