@@ -1,1 +1,206 @@
 
+From Meh to Marvelous: The Ultimate Guide to Crafting a Killer GitHub Profile
+Put your best foot forward and stand out from the crowd
+Chijioke Joseph Okorji
+Chijioke Joseph Okorji
+
+·
+Follow
+
+11 min read
+·
+Jul 8, 2024
+
+Listen
+
+
+Share
+
+Your GitHub profile is your online coding portfolio. It’s where you show off your skills and projects to the world, like a digital trophy case for all your programming achievements! Having a cool and informative GitHub profile can be a great way to land your dream coding job or impress other developers. In this article, you’ll learn how to create a superstar GitHub profile that will turn heads and make people say “Wow, this programmer is awesome!”
+
+To get started, you will need to navigate to your GitHub profile and create a new repository. The name of this repository needs to match your username to unlock the secret GitHub feature that lets you customize your profile page. This page needs to be public and include a README.md file.
+
+An image showing the “special repository” message that is displayed on the new repository page when the name of the GitHub repository matches the username of the user.
+Creating a special repository ✨
+Well done! The repository should now be generated with a simple greeting message in the README.md file. If you navigate to your profile, you should now see this message displayed.
+
+A GitHub profile is shown with a simple greeting message, “Hi there 👋🏾”
+Hi there 👋🏾
+While this is a good first step, it’s now time to customize the page and add a personal touch to it. The good part about this process is that you can make the changes right from the browser without having to worry about Git commands. To begin customizing the profile page, you can click the pencil-button to edit the file in the top-right corner. This would bring us to the file editor where you can make changes to the README.md file. By default, you should see the initial greeting along with some useful tips in the comments.
+
+An image showing the initial contents of the unique README.md file
+Initial state 📝
+Let’s go ahead and clear everything. As a first step, I think that it would be nice to keep track of the number of visitors that view the profile page. This can easily be achieved by including the following snippet in the README.md file:
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+Be sure to replace the URL variable with your unique GitHub username. This adds a simple counter that increases whenever anyone views your profile page. You can go ahead and commit the changes and view your profile page again.
+
+An image of the GitHub profile page showing the visitor count for a user
+I seem to be getting visitors 👀
+Next, let’s add a banner. A banner is like a giant billboard at the top of your profile. It’s your chance to make a big first impression, so it should be eye-catching and tell people a little bit about you. You could use a funny coding meme, a picture of your favorite coding setup, or even a creative design that represents your programming style. You simply need to upload the image to your special repository and reference it within the README.md file.
+
+Uploading a banner image for the GitHub profile
+Manually uploading a banner image 🌌
+Once your file is uploaded, you can commit your changes. This would add the image file to the special repository. Next, you will copy the link to file to your computer’s clipboard (right-click and copy link address). You now need to go into your README.md file and include an image tag to add the banner.
+
+<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+Be sure to replace the URL variable with your unique GitHub username. You might have noticed that the username is written twice. This is because the name of the special repository would be the same as the username of the user. Before committing the changes, you can switch over to the Preview tab to view your changes.
+
+An image of the profile page showing the included banner. The banner is of a developer sitting in front of a desk
+Not too shabby! 👨🏾‍💻
+You can now go ahead and commit your changes. The profile looks to be coming along nicely!
+
+Next, let’s add a bio. Your bio is a short introduction about yourself, like a mini elevator pitch for your coding skills. When writing your bio, keep it short, sweet, and to the point, but also try to include some keywords that describe your skills and interests. For example, if you’re a whiz at building mobile apps, mention that!
+
+You can include an animated greeting, along with a short introduction about yourself. To do that, you can simply add the following:
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+</h1>
+
+### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+This would create an animated gif that dynamically types the message passed as query parameters. I included my name as a reference, but be sure to replace it with your own unique message. Finally, you can commit your changes and view the updated profile page.
+
+An image showing the added bio header. This header includes a simple greeting, and a short introduction
+This bio header looks really good! 👌🏾
+With the bio header done, you can go ahead and add information about what you’re passionate about! In your bio, you can also mention what you’re currently learning or working on. This is an opportunity to show potential employers or collaborators that you’re always looking to grow your knowledge and improve your skills. Are you working on a personal project in your free time? Mention it! People love to see coders who are passionate about creating new things.
+
+You can include the following snippets in your README.md file:
+
+- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+
+<br>
+
+<div align="center">
+  <a href="chijiokeokorji@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://medium.com/@chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://codepen.io/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+This adds a simple bio description below the main header. I also included links to platforms incase the viewers want to reach out to me (be sure to replace it with your own contact links). Also, don’t forget to replace the URL variables before committing your changes.
+
+An image showing the updated profile page with a bio description. This description includes details about what I am currently doing, as well as badges and links to contact me.
+It’s always good to share what you’re currently doing 🌱
+Now it’s time to showcase your skills! One of the best ways to do this is with badges. Badges are like little pictures or icons that represent the programming languages and tools you know. They’re a quick and easy way to show off your expertise. There are badges for almost everything these days, from popular programming languages like JavaScript and C++ to specific frameworks and libraries.
+
+To include skill badges, you can add the following to your README.md file:
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
+Ensure that you replace the skills listed with skills that you actually possess. The above snipped adds a centered list of skills across two rows. If you would instead prefer it all to be displayed on a single row, you can replace it with a single img tag and simply list all of the icon names at once.
+
+An image showing the updated profile page. This page now includes icons showing current skills possessed by the user
+Now anyone can know my skills at a glance 🦾
+Here are some other cool things you can add to your GitHub profile to make it stand out:
+
+Links to your other online profiles: Do you have a portfolio website or a blog where you write about coding? Include links to those in your profile so people can learn more about you and your work.
+A list of your coolest projects: GitHub is all about code, so why not show off some of your best projects? You can link to your repositories directly in your profile, or even create a short description of each project to give people a taste of what you’ve been working on.
+A fun fact about yourself: Let your personality shine through! Add a fun fact about yourself that isn’t coding related. Do you love playing the guitar? Are you a champion cat herder? (We won’t judge!) Adding a personal touch can make your profile more memorable.
+Also, don’t forget to brag a little (but in a good way) with stats! Stats show how active you are on GitHub and how much you’ve contributed to the coding community. Stats are a great way to show potential employers that you’re not just a hobbyist coder, but someone who is actively involved in the world of software development. There are lots of cool stat generators out there that can create fancy graphics to show off your GitHub awesomeness.
+
+To include powerful GitHub user stats, add the following to your README.md file:
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
+
+<hr>
+I left my username as a reference, but it is important that you replace it with your own GitHub username to accurately pull and display your user data. Next, go ahead and commit your changes to view the updated profile page.
+
+An image showing the updated profile page. This page now includes icons with GitHub stats for a user including any ongoing streaks, the most popular languages used, and other user metrics (eg. number of commits)
+Data…data…data 📊
+With these changes, you should now have a GitHub profile that is truly awesome! Though this might be enough for most, I’d like to go one step further and add a personal touch to the profile.
+
+Advanced Customizations (Optional)
+While the current state of the GitHub profile is great, I’d like to add some unique features to make it stand out a bit. We would be leveraging GitHub Actions, to perform some tasks automatically in the background.
+
+To get started, from within the special repository, navigate to workflow permissions (Repository -> Settings -> Actions -> General -> Workflow permissions) and grant read and write permissions to workflows.
+
+An image showing the GitHub workflow permissions page
+Now our workflows are able to make changes to the special repository 🚧
+With this set up, we can go ahead and create our first workflow. From the root of the special repository, create a generate-snake.yml file in the .github/workflows/ directory.
+
+An image showing the file creation page for the `.github/workflows/generate-snake.yml` file
+Creating our first workflow file 📁
+Within the newly created file, paste the following:
+
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+name: Generate Snake
+
+# Controls when the action will run.
+on:
+  schedule:
+      # every 12 hours
+    - cron: "0 */12 * * *"
+
+  # This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+  
+  # Also run on every push on the main branch
+  push:
+    branches:
+    - main
+
+# The sequence of runs in this workflow:
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+    
+      - name: Generate the snake files in './dist/'
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show build status
+        run: git status
+
+      - name: Push new files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animations
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
