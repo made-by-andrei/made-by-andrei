@@ -8,6 +8,7 @@
 </h1>
 
 ### I am passionate about programming, web design, and gaming. Here you can find all the projects I’m working on.
+<hr>
 - 🌱 I’m currently learning **[PYTHON](https://www.learnpython.org/)**
 - 💬 Ask me about **Python, Canva, LUA...or anything [here](https://github.com/{andrei79x}/{andrei79x}/issues)**
 
@@ -25,7 +26,7 @@
   </a>
   <a
 </div>
-
+<hr>
 ## 🛠️ Languages and Tools
 
 <br>
@@ -34,6 +35,7 @@
   <img src="https://skillicons.dev/icons?i=python,photoshop,php,github,discord,matlab,twitter"/>
 </p>
 
+<hr>
 ## ⚡️ Stats
 
 <br>
@@ -41,9 +43,6 @@
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Andrei GitHub Stats" />
 </div>
-
-<hr>
-<hr>
 
 <hr>
 <!--
