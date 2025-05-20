@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,photoshop,php, c++" />
+  <img src="https://skillicons.dev/icons?i=python,photoshop,php"/>
 </p>
 
 <hr>
