@@ -2,6 +2,7 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{andrei79x}/count.svg" alt="Visitor's Count" />
 </div>
+<img src="https://github.com/{andrei79x}/{andrei79x}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 <!--
 **andrei79x/andrei79x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
