@@ -40,7 +40,7 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Andrei GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=andrei79x&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Andrei GitHub Stats" />
 </div>
 
 <!--
