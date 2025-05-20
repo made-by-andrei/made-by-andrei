@@ -2,7 +2,12 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{andrei79x}/count.svg" alt="Visitor's Count" />
 </div>
-<img src="https://raw.githubusercontent.com/andrei79x/andrei79x/refs/heads/main/Polish_20250519_021636984.png" alt="MY PROJECT">
+<img src="https://raw.githubusercontent.com/andrei79x/andrei79x/refs/heads/main/Polish_20250519_021636984.png" alt="MY PROJECTS">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Andrei+!;" />
+</h1>
+
+### I am passionate about programming, web design, and gaming. Here you can find all the projects I’m working on.
 <!--
 **andrei79x/andrei79x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
