@@ -26,7 +26,6 @@
   </a>
   <a
 </div>
-<hr>
 ## 🛠️ Languages and Tools
 
 <br>
@@ -35,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=python,photoshop,php,github,discord,matlab,twitter"/>
 </p>
 
-<hr>
 ## ⚡️ Stats
 
 <br>
@@ -44,7 +42,6 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Andrei GitHub Stats" />
 </div>
 
-<hr>
 <!--
 **andrei79x/andrei79x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
