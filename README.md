@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,photoshop,php,github,discord,matlab,codeblocks,twitter"/>
+  <img src="https://skillicons.dev/icons?i=python,photoshop,php,github,discord,matlab,twitter"/>
 </p>
 
 <hr>
