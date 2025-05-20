@@ -26,6 +26,17 @@
   <a
 </div>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
+
 <hr>
 <!--
 **andrei79x/andrei79x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
