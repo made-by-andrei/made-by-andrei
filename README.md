@@ -1,10 +1,10 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{andrei79x}/count.svg" alt="Visitor's Count" />
+  <p>Profile Views 🔥</p>
+  <img src="https://profile-counter.glitch.me/{andrei79x}/count.svg" alt="Profile Views 🔥" />
 </div>
 <img src="https://raw.githubusercontent.com/andrei79x/andrei79x/refs/heads/main/Polish_20250519_021636984.png" alt="MY PROJECTS">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Andrei+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffffff&duration=4500&lines=Welcome+!+✌🏻;+Working+on:+NOXUЯA;" />
 </h1>
 
 ### I am passionate about programming, web design, and gaming. Here you can find all the projects I’m working on.
@@ -27,7 +27,7 @@
   <a
 </div>
 
-## 🛠️ Languages and Tools
+## 👀 Focused On
 
 <br>
 
@@ -36,7 +36,7 @@
 </p>
 
 
-## ⚡️ Stats
+## 🕊 Current Stats
 
 <br>
 
@@ -45,20 +45,4 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei79x&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Andrei's Most Used Languages" />
 </div>
 
-
 <hr>
-
-<!--
-**andrei79x/andrei79x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
