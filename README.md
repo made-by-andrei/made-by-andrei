@@ -21,7 +21,7 @@
   <a href="https://instagram.com/acabaxc" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://bit.ly/noxuragrph" target="_blank">
+  <a href="https://discord.gg/3DwXTKk6" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
   <a
