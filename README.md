@@ -1,5 +1,5 @@
 <div align="center"> 
-  <p>Profile Views 🔥</p>
+  <p>Profile Views ❄️</p>
   <img src="https://profile-counter.glitch.me/{made-by-andrei}/count.svg" alt="Profile Views 🔥" />
 </div>
 <img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/MADE-BY-ANDREI.png" alt="MY PROJECTS">
