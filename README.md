@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/MADE-BY-ANDREI.png" alt="MY PROJECTS">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Italic&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Building+things+⚙️;Breaking+things+💥;Learning+in+between+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Italic&size=40&duration=1700&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Building+things+⚙️;Breaking+things+💥;Learning+in+between+📚" />
 </h1>
 
 <style>
