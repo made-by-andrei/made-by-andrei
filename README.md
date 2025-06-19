@@ -3,9 +3,18 @@
   <img src="https://profile-counter.glitch.me/{made-by-andrei}/count.svg" alt="Profile Views 🔥" />
 </div>
 <img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/MADE-BY-ANDREI.png" alt="MY PROJECTS">
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=800&height=70&color=ffffff&duration=4500&lines=Building+things+⚙️+Breaking+things+💥+Learning+in+between+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Italic&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Building+things+⚙️;Breaking+things+💥;Learning+in+between+📚" />
 </h1>
+
+<style>
+  h1 img {
+    background: linear-gradient(to right, #ffffff, #aee2ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+</style>
 
 ### I am passionate about programming, web design, and gaming. Here you can find all the projects I’m working on.
 
