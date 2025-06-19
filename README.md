@@ -2,7 +2,7 @@
   <p>Profile Views 🔥</p>
   <img src="https://profile-counter.glitch.me/{made-by-andrei}/count.svg" alt="Profile Views 🔥" />
 </div>
-<img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/Polish_20250519_021636984.png" alt="MY PROJECTS">
+<img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/MADE-BY-ANDREI.png" alt="MY PROJECTS">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffffff&duration=4500&lines=Welcome+!+✌🏻;+Working+on:+NOXUЯA;" />
 </h1>
