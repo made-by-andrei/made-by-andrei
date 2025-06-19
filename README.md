@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Italic&size=40&duration=1700&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Building+things+⚙️;Breaking+things+💥;Learning+in+between+📚" />
 </h1>
 
-<style>
-  h1 img {
-    background: linear-gradient(to right, #ffffff, #aee2ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-</style>
-
 ### I am passionate about programming, web design, and gaming. Here you can find all the projects I’m working on.
 
 - 🌱 I’m currently learning **[PYTHON](https://www.learnpython.org/)**
