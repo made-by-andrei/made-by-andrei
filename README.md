@@ -4,7 +4,7 @@
 </div>
 <img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/MADE-BY-ANDREI.png" alt="MY PROJECTS">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffffff&duration=4500&lines=Welcome+!+✌🏻;+Enjoy+your+staying;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=800&height=70&color=ffffff&duration=4500&lines=Building+things+⚙️+Breaking+things+💥+Learning+in+between+📚" />
 </h1>
 
 ### I am passionate about programming, web design, and gaming. Here you can find all the projects I’m working on.
