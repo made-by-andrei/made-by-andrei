@@ -2,7 +2,7 @@
   <p>Profile Views ❄️</p>
   <img src="https://profile-counter.glitch.me/{made-by-andrei}/count.svg" alt="Profile Views ❄️" />
 </div>
-<img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/MADE-BY-ANDREI.png" alt="MY PROJECTS">
+<img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/MADE-BY-ANDREI.jpg" alt="MY PROJECTS">
 
 
 <h1 align="center">
