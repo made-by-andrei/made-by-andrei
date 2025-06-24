@@ -1,13 +1,13 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Italic&size=40&duration=1700&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Building+things+⚙️;Breaking+things+💥;Learning+in+between+📚" />
+</h1>
+
 </div>
 <img src="https://raw.githubusercontent.com/made-by-andrei/made-by-andrei/refs/heads/main/MADE-BY-ANDREI.jpg" alt="MY PROJECTS">
 
 <div align="center"> 
   <p>👣 Footprints in Code 👇🏼</p>
   <img src="https://profile-counter.glitch.me/{made-by-andrei}/count.svg" alt="👣 Footprints in Code 👇🏼" />
-  
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Italic&size=40&duration=1700&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Building+things+⚙️;Breaking+things+💥;Learning+in+between+📚" />
-</h1>
 
 ### I am passionate about programming, web design, and gaming. Here you can find all the projects I’m working on.
 
