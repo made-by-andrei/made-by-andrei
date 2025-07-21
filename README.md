@@ -17,4 +17,11 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-![Matrix Rain](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+<p align="center">
+  <svg width="300" height="60" viewBox="0 0 300 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code" font-size="32" fill="#ffffff">
+      <animate attributeName="fill-opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+      THE CODE ALCHEMIST
+    </text>
+  </svg>
+</p>
