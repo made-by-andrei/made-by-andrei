@@ -30,27 +30,3 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" title="JavaScript" alt="JavaScript" />
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250721T143045Z&X-Amz-Expires=300&X-Amz-Signature=b2728298b40eeee6329730541ce64a15a2fb5fca33ebffb8680c3a11ea371104&X-Amz-SignedHeaders=host" width="40" title="Python" alt="Python" />
 </p>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50" alt="Socials Icon" />
-</p>
-
-<h2 align="center">
-  Socials
-</h2>
-
-<p align="center">
-  <a href="https://twitter.com/username" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" title="Twitter" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/username" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" title="LinkedIn" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/username" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" title="GitHub" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/username" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" title="Instagram" alt="Instagram" />
-  </a>
-</p>
