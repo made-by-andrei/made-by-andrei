@@ -22,7 +22,7 @@
 </p>
 
 <!-- SOCIALS  -->
-<h2 align="center">🤝🏽 CONTACT ME 🤝🏽</h2>
+<h2 align="center">🔗 CONTACT ME 🔗</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 80px;">
   <a href="https://discord.com/users/madebyandrei" target="_blank">
