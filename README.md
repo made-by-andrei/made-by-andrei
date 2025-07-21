@@ -17,4 +17,4 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-![Waves](https://media.giphy.com/media/3ohhwH6XcaLoJ0v8Vy/giphy.gif)
+![Matrix Rain](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
