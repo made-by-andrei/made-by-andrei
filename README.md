@@ -13,22 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
 </p>
 
-<!-- README-ul tău GitHub, în stil cinematic, cu stil dark, fără clișee -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F8F8F8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I+build+realities.;I+don%E2%80%99t+just+code%2C+I+engineer+impact.;Welcome+to+my+domain." alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-
----
-
-<h2 align="center" style="color: #FFFFFF; font-weight: bold">⚡ THE CODE ALCHEMIST</h2>
-
-```txt
-I don’t chase trends.
-I define what’s next.
-I’m not a developer.
-I’m a system architect of the future.
