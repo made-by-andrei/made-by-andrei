@@ -10,13 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
 </p>
 
----
 
-## 📐 ABOUT ME
+> whoami
+  full-stack engineer, ui-perfectionist, backend-scaler
 
-```txt
-Name:       Andrei
-Role:       Student ( Future Software Engineer )
-Location:   Galați, Romania
-Focus:      Full-Stack • AI-enhanced Tools
-Vision:     Code minimal. Ship scalable. Design timeless.
+> passion
+  turning logic into experience
+
+> quote
+  "First you learn, then you remove the L."
+
+> commit history
+  always clean. always tested. always intentional.
