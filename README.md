@@ -13,6 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
 </p>
 
+<!-- Professional Title -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation_Engineer-SOON-1a1a1a?style=for-the-badge&logo=brain&logoColor=white&color=cc963f" />
+</p>
+
 <!-- Snake Contributions -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
