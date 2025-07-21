@@ -1,28 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=250&section=header&text=WELCOME%20TO%20MY%20PROFILE%20🕊&fontSize=50&fontColor=ffffff" alt="banner" />
-</p>
-
-
-<h1 align="center">Salut! Eu sunt <span style="color:#ff4c60;">[Numele Tău]</span> 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | 🔭 Creative Thinker | ⚡ Tech Addict | 🌍 Global Dreamer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I’m+[Nume]+👨‍💻;I+code+with+passion+🔥;I+love+building+amazing+things!🚀&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=36BCF7&vCenter=true&size=22" />
-</p>
-
----
-
-### ✨ Despre mine:
-
-🔥 **"Nu scriu doar cod. Construiesc lumi."**  
-🎯 Sunt un developer pasionat, mereu în căutare de provocări epice și soluții elegante.  
-📈 Mereu învăț, mereu cresc. Din curiozitate, nu din obligație.  
-🌍 Visez la un viitor unde codul meu influențează milioane.  
-🚀 Let’s build the future. One line of code at a time.
-
----
-
-### 🧰 Tech Stack-ul meu:
+</p> 
 
 <div align="center">
   
