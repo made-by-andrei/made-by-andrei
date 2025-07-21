@@ -26,3 +26,18 @@
 [<img src="resources/icons/linkedin_white.svg" width="30"/>](https://linkedin.com/in/axc-dev)
 
 Feel free to reach out for collaborations, cool ideas 💡, or just to say hi! 👋
+
+
+## 🚀 Currently Learning & Using:
+
+🧠 **Languages & Tools:**
+
+[<img src="resources/icons/python_white.svg" width="30"/>](https://python.org)
+[<img src="resources/icons/lua_white.svg" width="30"/>](https://www.lua.org)
+[<img src="resources/icons/cpp_white.svg" width="30"/>](https://isocpp.org)
+[<img src="resources/icons/mysql_white.svg" width="30"/>](https://www.mysql.com)
+
+🛠️ Other interests:  
+[<img src="resources/icons/github_white.svg" width="30"/>](https://github.com)  
+[<img src="resources/icons/vscode_white.svg" width="30"/>](https://code.visualstudio.com)  
+🎮 Game scripting | 🌐 Web Dev | ⚙️ Automation | 📊 Data Viz
