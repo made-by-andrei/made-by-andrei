@@ -17,17 +17,3 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-
-## 📬 Contact Me On:
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>](mailto:axc.dev@gmail.com)
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30"/>](https://instagram.com/axc.dev)
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="30"/>](https://linkedin.com/in/axc-dev)
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30"/>](https://playvalorant.com)
-
-## 🚀 Currently Learning & Using:
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>](https://python.org)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/>](https://lua.org)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>](https://cplusplus.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>](https://mysql.com)
