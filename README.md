@@ -10,4 +10,4 @@
   <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
 </p>
 
-<h3 align="center"><i>Minimal. Fast. Built with purpose.</i></h3>
+<p align="center"><i>Dark mode by choice. Clean code by principle.</i></p>
