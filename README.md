@@ -9,3 +9,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
 </p>
+
+<h3 align="center"><i>Minimal. Fast. Built with purpose.</i></h3>
