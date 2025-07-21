@@ -24,7 +24,7 @@
 </p>
 
 <!-- SOCIALS -->
-<h2 align="center">🤝🏽 CONTACT ME <img src="https://img.icons8.com/?size=512&id=118467&format=png" width="20"/></h2>
+<h2 align="center">🤝🏽 CONTACT ME 🤝🏽<img src="https://img.icons8.com/?size=512&id=118467&format=png" width="20"/></h2>
 
 <p align="center">
   <a href="https://discord.com/users/madebyandrei" target="_blank">
