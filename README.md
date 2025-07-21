@@ -3,117 +3,83 @@
 </p> 
 
 
+<!-- README.md - made-by-andrei | Edition: Powerfully Minimal -->
 
-
-<!-- README.md - Made by Andrei -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Andrei+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Tech+Visionary;Creator+of+Digital+Experiences;Let's+build+magic+together+%F0%9F%9A%80" alt="Typing SVG" />
+<h1 align="center" style="border-bottom: none;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=600&lines=made-by-andrei;Engineering+Excellence;Code+as+Craft%2C+Design+as+Discipline" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+  <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
 </p>
-
-<h3 align="center">
-  🔥 Passion-Driven Developer | 🌍 Based in Code & Creativity | 🚀 Shaping the Digital Universe
-</h3>
-
----
-
-### 🚀 Brand Manifesto – `made-by-andrei`
-
-> *Code is not what I do. Code is what I **am.***  
-> I build with intention. I ship with purpose.  
-> Clean architecture, bold UX, bleeding-edge tech.  
-> Always learning. Always launching.  
-> Welcome to my digital playground.
-
----
-
-### 🧬 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,node,tailwind,figma,python,docker,git,postgres,mongodb,vercel" />
+  <img src="https://media.giphy.com/media/DUqZ49f8X8mhy/giphy.gif" width="220" alt="Elegant Looping GIF"/>
 </p>
 
 ---
 
-### 📈 GitHub Metrics
+## 🧭 WHO I AM
+
+> Full Stack Software Engineer with a deep focus on **code clarity, product integrity**, and **technological elegance**.  
+> Strategic thinker, fast executor, pragmatic visionary.  
+> Architecting scalable systems. Designing refined digital experiences.  
+> No buzzwords. Just meaningful impact.
+
+---
+
+## 🛠️ TECH STACK
 
 <div align="center">
 
-  ![made-by-andrei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=made-by-andrei&show_icons=true&theme=vision-friendly-dark&hide=issues)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=made-by-andrei&layout=compact&theme=radical)
-
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=made-by-andrei&theme=dark)
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=made-by-andrei&theme=matrix&no-frame=true&margin-w=10&row=1)
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,vue,node,python,django,tailwind,postgres,mongodb,git,docker,figma" />
 
 </div>
 
 ---
 
-### 🔭 Ce construiesc:
-
-| Proiect | Descriere | Stack |
-|--------|-----------|--------|
-| [`📦 DevDash`](https://github.com/made-by-andrei/devdash) | Dashboard modern pentru dezvoltatori | React, Next.js, Tailwind, Supabase |
-| [`🎧 SonicHub`](https://github.com/made-by-andrei/sonichub) | Progressive Web Music App | TypeScript, Vite, Firebase |
-| [`🧠 PromptNest`](https://github.com/made-by-andrei/promptnest) | AI Prompt Manager cu backend scalabil | Node.js, Prisma, PostgreSQL |
-
----
-
-### 🎯 Skills în acțiune
-
-- ⚙️ Scalable Web Apps (SPA / SSR / CSR / ISR)
-- 🧩 API-uri REST + GraphQL
-- 💅 UI/UX Design lover (Figma to Code)
-- 🧠 AI/ML powered logic (prompt engineering, OpenAI APIs)
-- 🌐 Deploy automatizat via Vercel, Docker, Railway
-- 🚀 Rapid prototyping & MVPs
-
----
-
-### 💬 Let's Talk
+## 🔗 CONNECT
 
 <p align="center">
-  <a href="https://linkedin.com/in/made-by-andrei"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:madebyandrei.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://madebyandrei.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  <a href="https://madebyandrei.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="mailto:madebyandrei.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-gray?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/made-by-andrei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/made-by-andrei" target="_blank"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### ✨ Easter Egg
+## 💼 FOCUS AREAS
 
-> 🧠 **Fun Fact**: Numele meu nu e doar un username.  
-> E o garanție: *dacă e `made-by-andrei`, e făcut bine.*
+- System Design & Architecture (Clean, Scalable, Documented)
+- End-to-End Product Development (Frontend ↔ Backend)
+- DevOps-Ready Deployments (CI/CD, Containers, Cloud-native)
+- UX that feels invisible. Code that reads itself.
+- Rapid MVPs for Startups. Modular code for scale-ups.
+- Engineering Leadership & Technical Strategy
+
+---
+
+## ⚡ MISSION STATEMENT
+
+> **"I build systems that are fast, reliable, and timeless.  
+> I craft interfaces that feel intentional.  
+> I write code that will outlive trends."**
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/l3vR7b8hV3nqfwn6w/giphy.gif" width="260" alt="Elegant System Diagram Animation" />
 </p>
 
 ---
 
-### 🧙‍♂️ Motto personal
+## 🎯 CURRENT STATUS
 
-> “Craft code like art. Deploy like a warrior. Repeat.”
-
----
-
-## 🔄 Tips:
-
-- ✅ Clonează repo-ul `https://github.com/made-by-andrei/made-by-andrei` (creat automat de GitHub)
-- ✅ Fă din `README.md` prima impresie WOW
-- ✅ Pune un banner vizual modern sus (ex: via [GitHub Profile Banner Generator](https://www.profileme.dev))
-- ✅ Adaugă și GitHub Action pentru auto-update stats (vrei? ți-l configurez)
+🔒 Always building behind the scenes.  
+🚀 Select projects available privately on request.  
+🧠 Open to elite collaborations and meaningful digital products.
 
 ---
 
-Vrei să-ți creez direct fișierul `README.md` cu toate astea gata de upload? Sau vrei o versiune **light mode**, ori un site `Vercel` animat la fel de tare ca profilul?
-
-💬 Spune-mi și ți-o livrezi ca un boss.
+<h3 align="center"><i>If it’s made-by-andrei, it’s built with purpose.</i></h3>
