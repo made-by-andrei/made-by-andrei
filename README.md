@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=black" alt="Profile Views" />
 </p>
 
 <p align="center">
