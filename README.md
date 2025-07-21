@@ -21,8 +21,12 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-<!-- SOCIALS  -->
-<h2 align="center">🔗 CONTACT ME 🔗</h2>
+<!-- CONTACT ME with small GIF as emoji -->
+<h2 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="emoji gif" width="70" height="70" style="display: inline-block;" />
+  CONTACT ME
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="emoji gif" width="70" height="70" style="display: inline-block;" />
+</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 80px;">
   <a href="https://discord.com/users/madebyandrei" target="_blank">
