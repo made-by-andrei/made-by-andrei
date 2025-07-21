@@ -15,7 +15,7 @@
 
 <!-- Professional Title -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Automation_Engineer-SOON-1a1a1a?style=for-the-badge&logo=brain&logoColor=white&color=cc963f" />
+  <img src="https://img.shields.io/badge/Automation_Engineer-SOON-1a1a1a?style=for-the-badge&logo=openai&logoColor=white&color=cc963f" />
 </p>
 
 <!-- Snake Contributions -->
