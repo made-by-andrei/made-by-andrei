@@ -5,6 +5,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&center=true&vCenter=true&width=800&height=55&lines=Student+at+Faculty+of+Automation;From%3A+Gala%C8%9Bi%2C+Romania;First+you+learn%2C+then+you+remove+the+L.&color=FFFFFF" alt="Typing SVG" />
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
 </p>
