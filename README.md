@@ -24,12 +24,11 @@
 <!-- SOCIALS  -->
 <h2 align="center">🤝🏽 CONTACT ME 🤝🏽</h2>
 
-<p align="center" style="margin-bottom: 30px;">
-  <a href="#!" title="Dark Mode">
-    <img src="https://img.shields.io/badge/🌙%20Dark%20Mode-121212?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center" style="display: flex; justify-content: center; gap: 80px;">
+  <a href="https://discord.com/users/madebyandrei" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-madebyandrei-cc963f?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="#!" title="Light Mode">
-    <img src="https://img.shields.io/badge/☀️%20Light%20Mode-F5F5F5?style=for-the-badge&logo=github&logoColor=black" />
+  <a href="mailto:lehadus04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-lehadus04@gmail.com-cc963f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
