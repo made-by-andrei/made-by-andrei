@@ -17,8 +17,4 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-# Welcome to my world
-
-![Glitch Effect](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-Here I code in silence and create chaos.
+![Waves](https://media.giphy.com/media/3ohhwH6XcaLoJ0v8Vy/giphy.gif)
