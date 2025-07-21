@@ -32,3 +32,9 @@
     <img src="https://img.shields.io/badge/Gmail-lehadus04@gmail.com-cc963f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://discord.gg/Up9rDzg9zA" target="_blank">
+    <img src="https://img.shields.io/discord/1396896536348196944?label=Online%20on%20Discord&logo=discord&style=for-the-badge&color=cc963f&logoColor=white" alt="Discord Online" />
+  </a>
+</p>
