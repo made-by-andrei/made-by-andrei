@@ -20,24 +20,7 @@
 
 ## 📬 Contact Me On:
 
-[<img src="resources/icons/gmail_white.svg" width="30"/>](mailto:axc.dev@gmail.com)
-[<img src="resources/icons/instagram_white.svg" width="30"/>](https://instagram.com/axc.dev)
-[<img src="resources/icons/riot_white.svg" width="30"/>](https://playvalorant.com/)
-[<img src="resources/icons/linkedin_white.svg" width="30"/>](https://linkedin.com/in/axc-dev)
-
-Feel free to reach out for collaborations, cool ideas 💡, or just to say hi! 👋
-
-
-## 🚀 Currently Learning & Using:
-
-🧠 **Languages & Tools:**
-
-[<img src="resources/icons/python_white.svg" width="30"/>](https://python.org)
-[<img src="resources/icons/lua_white.svg" width="30"/>](https://www.lua.org)
-[<img src="resources/icons/cpp_white.svg" width="30"/>](https://isocpp.org)
-[<img src="resources/icons/mysql_white.svg" width="30"/>](https://www.mysql.com)
-
-🛠️ Other interests:  
-[<img src="resources/icons/github_white.svg" width="30"/>](https://github.com)  
-[<img src="resources/icons/vscode_white.svg" width="30"/>](https://code.visualstudio.com)  
-🎮 Game scripting | 🌐 Web Dev | ⚙️ Automation | 📊 Data Viz
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>](mailto:axc.dev@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30"/>](https://instagram.com/axc.dev)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="30"/>](https://linkedin.com/in/axc-dev)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30"/>](https://playvalorant.com)
