@@ -11,23 +11,6 @@
 </p>
 
 
-<!-- made-by-andrei: The Digital Genesis Profile -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=BOOTING+SYSTEM+...;made-by-andrei+initialized.;LOADING+VISIONARY+ARCHITECTURE.;CONNECTED+TO+SOURCE+REALITY." alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="280" />
-</p>
-
----
-
-### ⚡️ SYSTEM IDENTITY
-
-```bash
-> id: made-by-andrei
-> origin: Galați, Romania 🌍
-> class: Human / Engineer / Vision Crafter
-> alignment: Clean Code, Dark UI, Sharp Logic
-> protocol: Learn. Design. Build. Repeat.
+> status: ONLINE
+> mindset: Immovable.
+> belief: The future is written by the ones who dare to ship it.
