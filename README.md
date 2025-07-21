@@ -17,3 +17,9 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
+
+
+### 🤝 Hai să colaborăm!
+
+- 📬 Contact: [andrei@example.com](mailto:andrei@example.com)
+- 💼 LinkedIn: [linkedin.com/in/andrei](https://linkedin.com/in/andrei)
