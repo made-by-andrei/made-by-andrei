@@ -26,17 +26,11 @@
 <!-- SOCIALS  -->
 <h2 align="center">🤝🏽 CONTACT ME 🤝🏽</h2>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 80px;">
   <a href="https://discord.com/users/madebyandrei" target="_blank">
     <img src="https://img.shields.io/badge/Discord-madebyandrei-cc963f?style=for-the-badge&logo=discord&logoColor=white" />
-  </a><br>
-  <a href="https://github.com/made-by-andrei" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-made--by--andrei-cc963f?style=for-the-badge&logo=github&logoColor=white" />
-  </a><br>
+  </a>
   <a href="mailto:lehadus04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-lehadus04@gmail.com-cc963f?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a><br>
-  <a href="https://instagram.com/ndr.xc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ndr.xc-cc963f?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
