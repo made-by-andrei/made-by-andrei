@@ -6,8 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=made-by-andrei&style=for-the-badge&color=gray" alt="Profile Views" />
 </p>
 
-
-<!-- Made by Andrei - The Futuristic Developer Profile -->
+//text animat 
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&center=true&vCenter=true&width=750&height=55&lines=BUILDING+THE+FUTURE%2C+LINE+BY+LINE...;made-by-andrei+%E2%80%94+CODE+MEETS+VISION;WELCOME+TO+THE+ENGINEERING+REALM" alt="Typing SVG" />
