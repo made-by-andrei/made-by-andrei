@@ -23,7 +23,7 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-<!-- SOCIALS -->
+<!-- SOCIALS  -->
 <h2 align="center">🤝🏽 CONTACT ME 🤝🏽<img src="https://img.icons8.com/?size=512&id=118467&format=png" width="20"/></h2>
 
 <p align="center">
